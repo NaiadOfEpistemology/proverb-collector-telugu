@@ -1,7 +1,7 @@
 ---
 title: Telugu proverb collector
 sdk: streamlit
-sdk_version:1.47.0
+sdk_version: 1.47.0
 app_file: streamlit_app.py
 ---
 Telugu proverb collector.
