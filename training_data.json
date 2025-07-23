@@ -1,0 +1,228 @@
+[
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "మూకలో ముని మౌనమే.",
+    "output": "In a crowd, a wise person remains silent. It suggests that wisdom often shows itself through silence rather than unnecessary talk. (Region: AP)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "మూకలో ముని మౌనమే.",
+    "output": "Among the crowd, wisdom stays still, silence speaks louder than will."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "మూకలో ముని మౌనమే.",
+    "output": "Wisdom lies in silence."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "నిద్ర పోయిన వాడిని లేపవచ్చు, నిద్ర పోయిన మనసును లేపలేం.",
+    "output": "You can wake up someone who is asleep, but not a person whose mind is asleep. It means ignorance is harder to remove than physical sleep. (Region: TS)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "నిద్ర పోయిన వాడిని లేపవచ్చు, నిద్ర పోయిన మనసును లేపలేం.",
+    "output": "The sleeper’s eyes we can awake, but blind minds no light can shake."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "నిద్ర పోయిన వాడిని లేపవచ్చు, నిద్ర పోయిన మనసును లేపలేం.",
+    "output": "Ignorance is harder to cure than sleep."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "చెయ్యి చూసి చెయ్యి కట్టుకోవాలి.",
+    "output": "One must act within their means, just like tying your hands according to their length. It teaches the importance of living within one’s limits. (Region: AP)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "చెయ్యి చూసి చెయ్యి కట్టుకోవాలి.",
+    "output": "Stretch not beyond your reach, for prudence has much to teach."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "చెయ్యి చూసి చెయ్యి కట్టుకోవాలి.",
+    "output": "Live within your means."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "వాన వచ్చిన తర్వాత కుంటెత్తుడు.",
+    "output": "Fixing the roof after the rain has come is pointless. It means preparing too late is useless. (Region: TS)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "వాన వచ్చిన తర్వాత కుంటెత్తుడు.",
+    "output": "When rains arrive, the roof repair is vain; act before to avoid the pain."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "వాన వచ్చిన తర్వాత కుంటెత్తుడు.",
+    "output": "Late efforts bring no results."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "అరిచిన కుక్క కరవదు.",
+    "output": "A barking dog seldom bites. It means those who make a lot of noise are often harmless. (Region: AP)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "అరిచిన కుక్క కరవదు.",
+    "output": "The dog that barks with endless might rarely dares to take a bite."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "అరిచిన కుక్క కరవదు.",
+    "output": "Loud threats are mostly harmless."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "తినే నోరు తిట్టకుండా ఉండదు.",
+    "output": "Even those who are supported or fed may still criticize, reflecting human ingratitude. (Region: TS)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "తినే నోరు తిట్టకుండా ఉండదు.",
+    "output": "The mouth you feed may still complain, kindness may echo with disdain."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "తినే నోరు తిట్టకుండా ఉండదు.",
+    "output": "Kindness doesn’t always bring gratitude."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "మూకలో ముని మౌనమే.",
+    "output": "In a crowd, a wise person remains silent, showing wisdom through restraint. (Region: AP)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "మూకలో ముని మౌనమే.",
+    "output": "Among the crowd, wisdom stays still, silence speaks louder than will."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "మూకలో ముని మౌనమే.",
+    "output": "Wisdom lies in silence."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "నిద్ర పోయిన వాడిని లేపవచ్చు, నిద్ర పోయిన మనసును లేపలేం.",
+    "output": "You can wake someone asleep, but not a person whose mind is asleep. Ignorance is harder to cure. (Region: TS)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "నిద్ర పోయిన వాడిని లేపవచ్చు, నిద్ర పోయిన మనసును లేపలేం.",
+    "output": "The sleeper’s eyes we can awake, but blind minds no light can shake."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "నిద్ర పోయిన వాడిని లేపవచ్చు, నిద్ర పోయిన మనసును లేపలేం.",
+    "output": "Ignorance is harder to cure than sleep."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "చెయ్యి చూసి చెయ్యి కట్టుకోవాలి.",
+    "output": "One must act within their means, just like tying your hands according to their length. (Region: AP)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "చెయ్యి చూసి చెయ్యి కట్టుకోవాలి.",
+    "output": "Stretch not beyond your reach, for prudence has much to teach."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "చెయ్యి చూసి చెయ్యి కట్టుకోవాలి.",
+    "output": "Live within your means."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "వాన వచ్చిన తర్వాత కుంటెత్తుడు.",
+    "output": "Fixing the roof after the rain has come is pointless; late preparation is futile. (Region: TS)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "వాన వచ్చిన తర్వాత కుంటెత్తుడు.",
+    "output": "When rains arrive, the roof repair is vain; act before to avoid the pain."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "వాన వచ్చిన తర్వాత కుంటెత్తుడు.",
+    "output": "Late efforts bring no results."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "అరిచిన కుక్క కరవదు.",
+    "output": "A barking dog seldom bites, meaning loud threats are mostly harmless. (Region: AP)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "అరిచిన కుక్క కరవదు.",
+    "output": "The dog that barks with endless might rarely dares to take a bite."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "అరిచిన కుక్క కరవదు.",
+    "output": "Loud threats are mostly harmless."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "అనగనగా గారు మనగరా.",
+    "output": "Things don't always happen as we plan; reality may differ from expectation. (Region: AP)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "అనగనగా గారు మనగరా.",
+    "output": "What we imagine may not unfold, life writes stories untold."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "అనగనగా గారు మనగరా.",
+    "output": "Expectations often differ from reality."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "చేసే పనికే బడుగు లేదు.",
+    "output": "Work itself has no caste; it’s the dignity of labor. (Region: TS)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "చేసే పనికే బడుగు లేదు.",
+    "output": "No job is small, all labor stands tall."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "చేసే పనికే బడుగు లేదు.",
+    "output": "All work is honorable."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "మంచి మాట పాము నోట్లోనుంచి వచ్చినా బాగుంటుంది.",
+    "output": "Even if a good word comes from a snake's mouth, it should be valued. (Region: AP)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "మంచి మాట పాము నోట్లోనుంచి వచ్చినా బాగుంటుంది.",
+    "output": "A kind word, even from a foe, is worth more than we know."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "మంచి మాట పాము నోట్లోనుంచి వచ్చినా బాగుంటుంది.",
+    "output": "Wisdom matters, not the source."
+  },
+  {
+    "instruction": "Explain this Telugu proverb.",
+    "input": "వేగంగా ఎగిరినది త్వరగా పడిపోతుంది.",
+    "output": "What rises too fast often falls quickly, teaching patience and steadiness. (Region: TS)"
+  },
+  {
+    "instruction": "Rewrite this Telugu proverb in poetic form.",
+    "input": "వేగంగా ఎగిరినది త్వరగా పడిపోతుంది.",
+    "output": "Swiftly it soars, swiftly it falls, steady pace over haste calls."
+  },
+  {
+    "instruction": "Summarize this Telugu proverb.",
+    "input": "వేగంగా ఎగిరినది త్వరగా పడిపోతుంది.",
+    "output": "Fast rises lead to fast falls."
+  }
+  
+]
