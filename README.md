@@ -25,7 +25,7 @@ Proverb Collector LLM/
    └── pycache/
    └──format_dataset.py
    └──generate_response.py
-├──mistral_finetune.py
+├──tinyllama_finetune.py
 ├──README.md
 ├──requirements.txt
 ├──streamlit_app.py
